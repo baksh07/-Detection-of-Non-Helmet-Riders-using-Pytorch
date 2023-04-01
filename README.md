@@ -18,7 +18,7 @@ project structure <br />
 │   ├── detector.pth<br /> 
 │   ├── le.pickle<br /> 
 │   ├── plots<br /> 
-│   │   └── training.png<br /> 
+│   │   └── training.png<br/> 
 │   └── test_paths.txt<br /> 
 ├── dataset<br /> 
 │   ├── images<br /> 
