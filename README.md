@@ -15,7 +15,13 @@ $ pip install tqdm
 
 structure
 ├── output
+
+
+
 │   ├── detector.pth
+
+
+
 │   ├── le.pickle
 │   ├── plots
 │   │   └── training.png
