@@ -9,23 +9,17 @@ $ pip install opencv-contrib-python
 $ pip install torch
 $ pip install torchvision
 $ pip install imutils
-$ pip install matplotlib
-$ pip install numpy
-$ pip install tqdm
+$ pip install matplotlib<br /> 
+$ pip install numpy<br /> 
+$ pip install tqdm<br /> 
 
-structure
-├── output
-
-
-
-│   ├── detector.pth
-
-
-
-│   ├── le.pickle
-│   ├── plots
-│   │   └── training.png
-│   └── test_paths.txt
-├── dataset
-│   ├── images
-│   ├── annotations
+project structure <br /> 
+├── output <br /> 
+│   ├── detector.pth<br /> 
+│   ├── le.pickle<br /> 
+│   ├── plots <br /> 
+│   │   └── training.png<br /> 
+│   └── test_paths.txt<br /> 
+├── dataset<br /> 
+│   ├── images<br /> 
+│   ├── annotations<br /> 
