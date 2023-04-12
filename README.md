@@ -14,12 +14,12 @@ $ pip install numpy<br />
 $ pip install tqdm<br /> 
 
 project structure  <br /> 
-├── output<br /> 
-  │   ├── detector.pth<br /> 
-  │   ├── le.pickle<br /> 
-  │   ├── plots<br /> 
-  │   │   └── training.png<br/> 
-  │   └── test_paths.txt<br /> 
-├── dataset<br /> 
-  │   ├── images<br /> 
-  │   ├── annotations<br /> 
+|-- output<br /> 
+│   |-- detector.pth<br /> 
+│   |-- le.pickle<br /> 
+│   |-- plots<br /> 
+│   │   |---training.png<br/> 
+│   |-- test_paths.txt<br /> 
+|-- dataset<br /> 
+│   |-- images<br /> 
+│   |-- annotations<br /> 
