@@ -13,7 +13,7 @@ $ pip install matplotlib<br />
 $ pip install numpy<br /> 
 $ pip install tqdm<br /> 
 
-project structure <br /> 
+project structure  
 ├── output<br /> 
 │   ├── detector.pth<br /> 
 │   ├── le.pickle<br /> 
