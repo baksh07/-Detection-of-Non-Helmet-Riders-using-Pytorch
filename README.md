@@ -23,4 +23,4 @@ project structure  <br/>
 │   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── plots<br/> 
 │   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── training.png<br/> 
 │   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── test_paths.txt<br/> 
-└── train.py<br/> 
+└── helmet_detection.py<br/> 
